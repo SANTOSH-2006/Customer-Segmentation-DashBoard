@@ -32,7 +32,7 @@ Customer Segmentation using K-Means & Power BI
               * Customers grouped into **3 clusters**
        3. Visualization
               * Exported results to CSV
-              * Built Power BI dashboard with:
+              * Built Power BI dashboard with
               * Scatter Plot (Segmentation)
               * Bar Chart (Cluster Distribution)
               * Pie Chart (Cluster Share)
@@ -48,6 +48,3 @@ Customer Segmentation using K-Means & Power BI
     * Some customers spend more despite lower income
     * Businesses can target clusters differently
 
-
-
-Santhosh
